@@ -11,7 +11,7 @@ The company wants to know:
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## Results:
-- The best modetl was found out to be lasso with alpha value=0.0001
+- The best model was found out to be lasso with alpha value=0.0001
 * Train R2	: 0.901423
 * Test R2	: 0.902710
 * MAPE R2	: 0.142748
@@ -25,30 +25,22 @@ The company wants to know:
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- The best predictors were found out to be
+- Gr liv area, overall quality,overall cond,1st flr sf
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
+- numpy
+- pandas
+- matplotlib
+- seaborn
+- sklearn
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
-
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@Saibek] 
 
 
 <!-- Optional -->
